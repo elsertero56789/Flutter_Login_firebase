@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080646065773",
+    "project_id": "proyecto-dam2",
+    "storage_bucket": "proyecto-dam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080646065773:android:465c0a71f75ac521146964",
+        "android_client_info": {
+          "package_name": "com.example.recet_mom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080646065773-17fdpl3dh7vj0afv58dikgtulc3t0o48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0NQgAqf3zop-8uTNYtUpicSVv-b3KB1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080646065773-17fdpl3dh7vj0afv58dikgtulc3t0o48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
